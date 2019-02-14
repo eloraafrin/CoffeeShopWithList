@@ -1,0 +1,9 @@
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\bin\Debug\CoffeeShopWithList.exe.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\bin\Debug\CoffeeShopWithList.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\bin\Debug\CoffeeShopWithList.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.Properties.Resources.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.csproj.GenerateResource.Cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\5 Feb 2019_day 4\CoffeeShopWithList\CoffeeShopWithList\obj\Debug\CoffeeShopWithList.CoffeeShopUi.resources
